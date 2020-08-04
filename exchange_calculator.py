@@ -1,4 +1,4 @@
-venezuelan_bolivars = float(input('How many bolivars do you have? '))
-dollar_value = 266749.46
-dollars = venezuelan_bolivars/dollar_value
-print(f'You have {dollars:.2f} dollars')
+dollars = float(input('How many dollars do you have? '))
+bolivars_value = 266749.46
+bolivars = dollars * bolivars_value
+print(f'You have the equivalent of {bolivars:.2f} in dollars')
