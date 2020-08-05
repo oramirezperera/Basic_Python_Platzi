@@ -1,7 +1,7 @@
 age = int(input('How old are you? '))
 
 if age >= 18:
-    print('you are ')
+    print('you have age majority')
 else:
-    pass
+    print('you don\'t have age majority :( ')
 
