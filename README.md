@@ -15,3 +15,7 @@ Changes to the program added the :.2f to only show 2 decimals in the result
 now this program will accept Mexican and Argentinian pesos to transform to American dollars.
 
 asks the user which they want to transform.
+
+## Palindrome
+
+Using the entry points, functions, conditionals and slices. Checksout if a message or a word are a palindrome.
