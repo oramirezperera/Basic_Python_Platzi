@@ -18,4 +18,8 @@ asks the user which they want to transform.
 
 ## Palindrome
 
-Using the entry points, functions, conditionals and slices. Checks out if a message or a word are a palindrome.
+Using the entry points, functions, conditionals, and slices. Checks out if a message or a word is a palindrome.
+
+## Is_prime
+
+Using the things before and the continue, break statements, I created two programs where you input a number and they return if the number is prime or not.
