@@ -23,3 +23,9 @@ Using the entry points, functions, conditionals, and slices. Checks out if a mes
 ## Is_prime
 
 Using the things before and the continue, break statements, I created two programs where you input a number and they return if the number is prime or not.
+
+## Videogame
+
+### Guess the number!
+This program uses loops and a step counter so you can guess the number that the computer is thinking. 
+Can you beat the marvelous computer?
