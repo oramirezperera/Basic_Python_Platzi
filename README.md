@@ -29,3 +29,10 @@ Using the things before and the continue, break statements, I created two progra
 ### Guess the number!
 This program uses loops and a step counter so you can guess the number that the computer is thinking. 
 Can you beat the marvelous computer?
+
+## Dictionaries
+created a dictionaries.py file, creating and looping through dictionaries and their, items, keys and values.
+### created a new file it's a password generator
+Do you need a new password?
+Do you know that having the same password is very insecure?
+Now with this program you don't need to think new passwords, the password comes to you as a simple string, just be careful where you store it.
