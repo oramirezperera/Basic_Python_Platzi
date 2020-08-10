@@ -1,5 +1,6 @@
 import random
 
+
 def run():
     aleatory_number = random.randint(1, 100)
     chosen_number = int(input('Choose a number between 1 and 100: '))
@@ -12,6 +13,7 @@ def run():
         chosen_number = int(input('Choose another number: '))
         steps += 1
     print(f'You won! in {steps} steps')
+
 
 if __name__ == '__main__':
     run()
